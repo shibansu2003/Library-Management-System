@@ -1,0 +1,6 @@
+Time: 2025-2-25 19:25:35 | Action: Issued, User: shibansu, Student ID: 1220, Book ID: 1
+Time: 2025-2-25 19:25:47 | Action: Returned, User: shibansu, Student ID: 1220, Book ID: 1
+Time: 2025-2-25 19:27:19 | Action: Issued, User: shiba, Student ID: 122084, Book ID: 1
+Time: 2025-2-25 19:27:57 | Action: Issued, User: shiba, Student ID: 122084, Book ID: 2
+Time: 2025-2-25 19:28:19 | Action: Returned, User: shiba, Student ID: 122084, Book ID: 1
+Time: 2025-2-25 19:28:26 | Action: Returned, User: shiba, Student ID: 122084, Book ID: 2
